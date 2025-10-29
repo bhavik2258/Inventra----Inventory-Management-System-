@@ -1,0 +1,16 @@
+✅ CORRECT FRONTEND RENDER SETTINGS:
+
+Service Type: Static Site
+Build Command: npm install && npm run build
+Start Command: (leave blank - not needed!)
+Publish Directory: dist
+
+❌ WRONG (for static site):
+Start Command: npm run dev  ← Don't do this
+Start Command: npm start    ← Don't do this
+Type: Web Service           ← Wrong type
+
+✅ CORRECT:
+Type: Static Site
+Only Build Command required
+No Start Command needed
