@@ -125,4 +125,4 @@ inventra-nexus-main/
 
 ## 📄 License
 
-© 2025 Inventra | Designed by Ganesh Dandekar
+© 2025 Inventra | Designed by Bhavik Dandekar
